@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        Calculadora c1 = new Calculadora(1, 4);
+        Calculadora c1 = new Calculadora(0,0);
 
         while (true) {
 
